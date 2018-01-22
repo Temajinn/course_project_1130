@@ -63,17 +63,28 @@ namespace course_project_parking
 
         private void btnLoad_Click(object sender, EventArgs e)
         {
-            openFDClientFile.ShowDialog();
-            ParkingFabric.m_parking.LoadClientsFromFile(openFDClientFile.FileName);
+            if (openFDClientFile.ShowDialog() == DialogResult.OK)
+            {
+                if (openFDClientFile.CheckFileExists)
+                {
+                    ParkingFabric.m_parking.LoadClientsFromFile(openFDClientFile.FileName);
+                    FillListOfClients();
+                }
+            }   
             openFDClientFile.Dispose();
-            FillListOfClients();
         }
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            saveFDClientList.ShowDialog();
-            ParkingFabric.m_parking.SaveToFile(saveFDClientList.FileName);
-            saveFDClientList.Dispose();
+            if (saveFDClientList.ShowDialog() == DialogResult.OK)
+            {
+                if (saveFDClientList.CheckFileExists)
+                {
+                    ParkingFabric.m_parking.SaveToFile(saveFDClientList.FileName);
+                    saveFDClientList.Dispose();
+                }
+            }
+
         }
         public void FillListOfClients()
         {

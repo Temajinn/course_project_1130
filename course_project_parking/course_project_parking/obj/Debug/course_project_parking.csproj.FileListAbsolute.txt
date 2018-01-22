@@ -26,3 +26,17 @@ G:\course_project\course_project_parking\course_project_parking\obj\Debug\course
 G:\course_project\course_project_parking\course_project_parking\obj\Debug\course_project_parking.Parking_Res.resources
 G:\course_project\course_project_parking\course_project_parking\obj\Debug\course_project_parking.Properties.Resources.resources
 G:\course_project\course_project_parking\course_project_parking\obj\Debug\course_project_parking.csproj.GenerateResource.Cache
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\bin\Debug\course_project_parking.exe.config
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\obj\Debug\course_project_parking.exe
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\obj\Debug\course_project_parking.pdb
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\bin\Debug\course_project_parking.exe
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\bin\Debug\course_project_parking.pdb
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\obj\Debug\course_project_parking.csprojResolveAssemblyReference.cache
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\obj\Debug\course_project_parking.AddClientForm.resources
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\obj\Debug\course_project_parking.CalculateForm.resources
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\obj\Debug\course_project_parking.ClientList.resources
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\obj\Debug\course_project_parking.MenuForm.resources
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\obj\Debug\course_project_parking.Parking_plan.resources
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\obj\Debug\course_project_parking.Parking_Res.resources
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\obj\Debug\course_project_parking.Properties.Resources.resources
+D:\reps\cp1130\course_project_1130\course_project_parking\course_project_parking\obj\Debug\course_project_parking.csproj.GenerateResource.Cache
