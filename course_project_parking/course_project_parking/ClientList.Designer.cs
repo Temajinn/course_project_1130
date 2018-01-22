@@ -110,6 +110,7 @@
             // openFDClientFile
             // 
             this.openFDClientFile.FileName = "ClientList.txt";
+            this.saveFDClientList.FileName = "ClientList.txt";
             // 
             // btnReturnToMainList
             // 

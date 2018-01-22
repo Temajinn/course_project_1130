@@ -78,11 +78,8 @@ namespace course_project_parking
         {
             if (saveFDClientList.ShowDialog() == DialogResult.OK)
             {
-                if (saveFDClientList.CheckFileExists)
-                {
                     ParkingFabric.m_parking.SaveToFile(saveFDClientList.FileName);
                     saveFDClientList.Dispose();
-                }
             }
 
         }
